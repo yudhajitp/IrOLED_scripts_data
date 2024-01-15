@@ -8,6 +8,7 @@ environment.yml: file to recreate the conda environment used to execute the proj
 Use following code to recreate environment:
 
     conda env create -f environment.yml
+    conda activate chemml_env
     pip install -e ./megnet-master/.
 
 
