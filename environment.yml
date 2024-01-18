@@ -1,4 +1,4 @@
-name: IrOLED2
+name: IrOLED
 channels:
   - conda-forge
   - defaults
